@@ -165,6 +165,9 @@ header h1 {
     header{
         margin-top: 75px;
     }
+    header h1 {
+        font-size: 2rem;
+    }
     .profile-card:hover {
         transform: translateY(-15px);
     }
