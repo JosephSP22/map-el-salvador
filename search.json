@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Ahuachapán",
+        "imagen": "../img/dep/ahuachapan.png",
+        "zona": "Zona Occidental"
+    },
+    {
+        "nombre": "Santa Ana",
+        "imagen": "../img/dep/santaana.png",
+        "zona": "Zona Occidental"
+    },
+    {
+        "nombre": "San Salvador",
+        "imagen": "../img/dep/sansivar.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "La Libertad",
+        "imagen": "../img/dep/lalibertad.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "Sonsonate",
+        "imagen": "../img/dep/sonsonate.png",
+        "zona": "Zona Occidental"
+    },
+    {
+        "nombre": "Chalatenango",
+        "imagen": "../img/dep/Chalate.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "Cuscatlán",
+        "imagen": "../img/dep/cusca.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "San Miguel",
+        "imagen": "../img/dep/sanmiguel.png",
+        "zona": "Zona Oriental"
+    },
+    {
+        "nombre": "La Unión",
+        "imagen": "../img/dep/union.png",
+        "zona": "Zona Oriental"
+    },
+    {
+        "nombre": "Morazán",
+        "imagen": "../img/dep/morazan.png",
+        "zona": "Zona Oriental"
+    },
+    {
+        "nombre": "La Paz",
+        "imagen": "../img/dep/lapaz.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "San Vicente",
+        "imagen": "../img/dep/sanvicente.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "Cabañas",
+        "imagen": "../img/dep/cabañas.png",
+        "zona": "Zona Central"
+    },
+    {
+        "nombre": "Usulután",
+        "imagen": "../img/dep/usulu.png",
+        "zona": "Zona Central"
+    }
+]

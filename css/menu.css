@@ -1,0 +1,156 @@
+/* Estilos menu */
+.navbar {
+    background-color: #6f9c76;
+}
+.navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color: white;
+}
+.nav-link {
+    color: white;
+}
+.navbar-nav:hover {
+    background-color: #6f9c76;
+}
+.navbar-item {
+    margin-right: 60px;
+}
+
+.iconmenu{
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 30px;
+
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+    max-width: 470px;
+    /* max-height: 50px; */
+}
+
+.search-form input {
+    border-radius: 10px;
+    /* Bordes redondeados */
+    padding: 10px 20px;
+    font-size: 16px;
+    /* Tamaño de texto */
+    transition: border-color 0.3s ease-in-out;
+}
+
+.search-form input:focus {
+    border-color: #28a745;
+    /* Color al hacer focus */
+    outline: none;
+}
+
+.search-form button {
+    background-color: #7dad88;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-left: 10px;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.search-form button:hover {
+    background-color: #89c997;
+    color: #ffffff;
+}
+
+#sugerencias {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    overflow-y: auto;
+    width: calc(245px - 10px);
+    z-index: 1000;
+    right: 0;
+    border-radius: 10px;
+    margin-right: 10px;
+    height: auto;
+    padding: 0;
+}
+
+.sugerencia a {
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.sugerencia img {
+    margin-right: 10px;
+}
+
+.sugerencia:hover {
+    background-color: #f0f0f0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+footer img{
+    border-radius: 17px;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .navbar-nav {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    .nav-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .search-form {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .search-form input {
+        width: 90%;
+    }
+
+    #sugerencias {
+        width: 100%;
+        right: 0;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1320px) {
+    .navbar-nav {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+}
+
+
+
+

@@ -1,0 +1,35 @@
+/* Estilos mapa */
+.mapadiv {
+    width: 75%;
+    margin: auto;
+}
+
+.mapadiv path{
+    fill: #6f9c76;
+    stroke: #90EE90;
+    stroke-width: 1.5px;
+}
+
+#features path {
+    transition: transform 0.3s ease-in-out;
+    transform-origin: center;
+}
+
+#features path:hover {
+    transform: scale(1.05); /* Ajusta el valor para el tamaño que desees */
+    fill: #73d682;
+}
+
+#info-box {
+    display: none;
+    position: absolute;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Cuadro de texto */
+#info-box {
+    border-radius: 10px;
+}

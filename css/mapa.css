@@ -1,0 +1,156 @@
+.depimg {
+    width: 100%;
+}
+
+.carousel-inner img {
+    max-height: 310px;
+    object-fit: cover;
+}
+
+#map {
+    max-width: 100%;
+    height: auto;
+}
+
+.row {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.info {
+    background-color: #f0f4f9;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.parent-container {
+    flex: 1;
+    margin-left: 17px;
+}
+
+.containerr {
+    background-color: #f0f4f9;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.municipios-container, .lugares-container {
+    flex: 1; /* Cada contenedor ocupará el mismo espacio */
+    background-color: #f0f4f9;
+    border-radius: 10px;
+    /* padding: 20px; */
+    
+}
+.municipios-container{
+    margin-bottom: 20px;
+}
+
+.toggle-content {
+    display: none;
+    margin-top: 10px;
+}
+
+.toggle-button {
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+/* 
+.lugares img {
+    width: 250px;
+} */
+
+.lugares {
+    margin: 10px 0;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.image-container div {
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.image-container img {
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.image-container p {
+    margin-top: 7px;
+    font-size: 13px;
+}
+
+.municipios-list {
+    margin-left: 20px;
+    column-count: 3;
+    column-gap: 10px;
+    padding-left: 0;
+    margin-top: 0;
+}
+
+.municipios-list li {
+    break-inside: avoid;
+    padding: 4px 0;
+}
+
+#loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Fondo semitransparente */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    /* Asegúrate de que esté encima del contenido */
+}
+
+#loading p {
+    font-size: 24px;
+    color: #333;
+}
+
+footer{
+    margin-top: 50px;
+    color: white;
+}
+footer img{
+    border-radius: 17px;
+}
+
+
+@media (max-width: 768px) {
+    .municipios-list {
+        column-count: 1;
+        font-size: 12px;
+    }
+
+    .parent-container {
+        width: 100%;
+        margin-right: 10px;
+    }
+
+}

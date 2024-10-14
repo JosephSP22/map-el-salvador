@@ -1,0 +1,653 @@
+{
+    "La Libertad": {
+        "mapImage": "../img/dep/lalibertad.png",
+        "title": "Información sobre La Libertad",
+        "description": [
+            "La Libertad es un departamento de El Salvador que se encuentra en la zona central del país. Es conocido por sus hermosas playas, zonas turísticas y proximidad a la capital, San Salvador"
+        ],
+        "carouselImages": [
+            "../img/carusel/lalibertdad1.jpg",
+            "../img/carusel/lalibertdad2.jpg",
+            "../img/carusel/lalibertdad3.jpg"
+        ],
+        "municipios": [
+            "Antiguo Cuscatlán",
+            "Chiltiupán",
+            "Ciudad Arce",
+            "Colón",
+            "Comasagua",
+            "Huizúcar",
+            "Jayaque",
+            "Jicalapa",
+            "La Libertad",
+            "Nuevo Cuscatlán",
+            "Quezaltepeque",
+            "San José Villanueva",
+            "San Juan Opico",
+            "Sacacoyo",
+            "San Matías",
+            "San Pablo Tacachico",
+            "Talnique",
+            "Tamanique",
+            "Teotepeque",
+            "Tepecoyo",
+            "Zaragoza"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/lalibertdad1.jpg",
+                "nombre": "La Libertad"
+            },
+            {
+                "img": "../img/carusel/lalibertdad2.jpg",
+                "nombre": "Santa Tecla"
+            },
+            {
+                "img": "../img/carusel/lalibertdad3.jpg",
+                "nombre": "Ruinas de San Andres"
+            }
+        ]
+    },
+    "Ahuachapán": {
+        "mapImage": "../img/dep/ahuachapan.png",
+        "title": "Información sobre Ahuachapán",
+        "description": [
+            "Ahuachapán es un departamento de El Salvador ubicado en la zona occidental del país. Es famoso por su belleza natural, aguas termales y su rica cultura cafetalera."
+        ],
+        "carouselImages": [
+            "../img/carusel/ahuachapan3.jpg",
+            "../img/carusel/ahuachapan1.jpg",
+            "../img/carusel/ahuachapan2.jpg"
+        ],
+        "municipios": [
+            "Ahuachapán",
+            "Apaneca",
+            "Atiquizaya",
+            "Concepción de Ataco",
+            "El Refugio",
+            "Guaymango",
+            "Jujutla",
+            "San Francisco Menéndez",
+            "San Lorenzo",
+            "San Pedro Puxtla",
+            "Tacuba",
+            "Turín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/ahuachapan1.jpg",
+                "nombre": "Apaneca"
+            },
+            {
+                "img": "../img/carusel/ahuachapan2.jpg",
+                "nombre": "Concepción de Ataco"
+            },
+            {
+                "img": "../img/carusel/ahuachapan4.jpg",
+                "nombre": "Aguas Termales de Santa Teresa"
+            }
+        ]
+    },
+    "Cabañas": {
+        "mapImage": "../img/dep/cabañas.png",
+        "title": "Información sobre Cabañas",
+        "description": [
+            "Cabañas es un departamento de El Salvador ubicado en la zona norte-central del país. Es conocido por su belleza natural, sitios arqueológicos y por su importancia en la producción de minerales y agricultura."
+        ],
+        "carouselImages": [
+            "../img/carusel/cabanas1.jpg",
+            "../img/carusel/cabanas2.jpg",
+            "../img/carusel/cabanas3.jpg"
+        ],
+        "municipios": [
+            "Cinquera",
+            "Dolores",
+            "Guacotecti",
+            "Ilobasco",
+            "Jutiapa",
+            "San Isidro",
+            "Sensuntepeque",
+            "Tejutepeque",
+            "Victoria"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/cabanas1.jpg",
+                "nombre": "Ilobasco"
+            },
+            {
+                "img": "../img/carusel/cabanas2.jpg",
+                "nombre": "Cerro de Guazapa"
+            },
+            {
+                "img": "../img/carusel/cabanas3.jpg",
+                "nombre": "Parque Nacional Cinquera"
+            }
+        ]
+    },
+    "Chalatenango": {
+        "mapImage": "../img/dep/Chalate.png",
+        "title": "Información sobre Chalatenango",
+        "description": [
+            "Chalatenango es un departamento de El Salvador ubicado en la zona norte del país. Es conocido por sus impresionantes paisajes montañosos, ríos y su cultura agrícola, así como por ser un destino popular para el ecoturismo."
+        ],
+        "carouselImages": [
+            "../img/carusel/chalatenango3.jpg",
+            "../img/carusel/chalatenango2.jpeg",
+            "../img/carusel/chalatenango4.jpg"
+        ],
+        "municipios": [
+            "Agua Caliente",
+            "Arcatao",
+            "Azacualpa",
+            "Citalá",
+            "Comalapa",
+            "Concepción Quezaltepeque",
+            "Dulce Nombre de María",
+            "El Carrizal",
+            "El Paraíso",
+            "La Laguna",
+            "La Palma",
+            "La Reina",
+            "Las Vueltas",
+            "Nueva Concepción",
+            "Nueva Trinidad",
+            "Ojos de Agua",
+            "Potonico",
+            "San Antonio de la Cruz",
+            "San Antonio Los Ranchos",
+            "San Fernando",
+            "San Francisco Lempa",
+            "San Francisco Morazán",
+            "San Ignacio",
+            "San Isidro Labrador",
+            "San José Cancasque",
+            "San José Las Flores",
+            "San Luis del Carmen",
+            "San Miguel de Mercedes",
+            "San Rafael",
+            "Santa Rita",
+            "Tejutla"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/chalatenango1.jpg",
+                "nombre": "La Palma"
+            },
+            {
+                "img": "../img/carusel/chalatenango2.jpeg",
+                "nombre": "Cerro El Pital"
+            },
+            {
+                "img": "../img/carusel/chalatenango4.jpg",
+                "nombre": "Embalse Cerrón Grande"
+            }
+        ]
+    },
+    "Cuscatlán": {
+        "mapImage": "../img/dep/cusca.png",
+        "title": "Información sobre Cuscatlán",
+        "description": [
+            "Cuscatlán es un departamento de El Salvador ubicado en la zona central del país. Es conocido por su rica historia precolombina, así como por su producción agrícola, especialmente de café y caña de azúcar."
+        ],
+        "carouselImages": [
+            "../img/carusel/cuscatlan4.jpg",
+            "../img/carusel/cuscatlan2.jpg",
+            "../img/carusel/cuscatlan1.jpg"
+        ],
+        "municipios": [
+            "Candelaria",
+            "Cojutepeque",
+            "El Carmen",
+            "El Rosario",
+            "Monte San Juan",
+            "Oratorio de Concepción",
+            "San Bartolomé Perulapía",
+            "San Cristóbal",
+            "San José Guayabal",
+            "San Pedro Perulapán",
+            "San Rafael Cedros",
+            "San Ramón",
+            "Santa Cruz Analquito",
+            "Santa Cruz Michapa",
+            "Suchitoto",
+            "Tenancingo"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/cuscatlan1.jpg",
+                "nombre": "Suchitoto"
+            },
+            {
+                "img": "../img/carusel/cuscatlan2.jpg",
+                "nombre": "Lago Suchitlán"
+            },
+            {
+                "img": "../img/carusel/cuscatlan3.jpg",
+                "nombre": "Cojutepeque"
+            }
+        ]
+    },
+    "La Paz": {
+        "mapImage": "../img/dep/lapaz.png",
+        "title": "Información sobre La Paz",
+        "description": [
+            "La Paz es un departamento de El Salvador ubicado en la zona central del país, a lo largo de la costa del océano Pacífico. Es conocido por sus playas, agricultura y la producción de sal en las salinas de la Bahía de Jiquilisco."
+        ],
+        "carouselImages": [
+            "../img/carusel/lapaz4.jpg",
+            "../img/carusel/lapaz2.jpg",
+            "../img/carusel/lapaz1.jpg"
+        ],
+        "municipios": [
+            "Cuyultitán",
+            "El Rosario",
+            "Jerusalén",
+            "Mercedes La Ceiba",
+            "Olocuilta",
+            "Paraíso de Osorio",
+            "San Antonio Masahuat",
+            "San Emigdio",
+            "San Francisco Chinameca",
+            "San Pedro Masahuat",
+            "San Juan Nonualco",
+            "San Juan Talpa",
+            "San Juan Tepezontes",
+            "San Luis La Herradura",
+            "San Luis Talpa",
+            "San Miguel Tepezontes",
+            "San Pedro Nonualco",
+            "San Rafael Obrajuelo",
+            "Santa María Ostuma",
+            "Santiago Nonualco",
+            "Tapalhuaca",
+            "Zacatecoluca"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/lapaz1.jpg",
+                "nombre": "Costa del Sol"
+            },
+            {
+                "img": "../img/carusel/lapaz3.jpg",
+                "nombre": "San Antonio Masahuat"
+            },
+            {
+                "img": "../img/carusel/lapaz2.jpg",
+                "nombre": "Playa Los Blancos"
+            }
+        ]
+    },
+    "La Unión": {
+        "mapImage": "../img/dep/union.png",
+        "title": "Información sobre La Unión",
+        "description": [
+            "La Unión es un departamento de El Salvador ubicado en la zona oriental del país. Es conocido por su puerto en el Golfo de Fonseca, sus playas paradisíacas, y por ser un importante punto de comercio marítimo."
+        ],
+        "carouselImages": [
+            "../img/carusel/launion4.jpg",
+            "../img/carusel/launion1.jpg",
+            "../img/carusel/launion2.jpg"
+        ],
+        "municipios": [
+            "Anamorós",
+            "Bolívar",
+            "Concepción de Oriente",
+            "Conchagua",
+            "El Carmen",
+            "El Sauce",
+            "Intipucá",
+            "La Unión",
+            "Lislique",
+            "Meanguera del Golfo",
+            "Nueva Esparta",
+            "Pasaquina",
+            "Polorós",
+            "San Alejo",
+            "San José",
+            "Santa Rosa de Lima",
+            "Yayantique",
+            "Yucuaiquín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/launion1.jpg",
+                "nombre": "Golfo de Fonseca"
+            },
+            {
+                "img": "../img/carusel/launion2.jpg",
+                "nombre": "Playa Las Tunas"
+            },
+            {
+                "img": "../img/carusel/launion3.jpg",
+                "nombre": "Isla Meanguera"
+            }
+        ]
+    },
+    "Morazán": {
+        "mapImage": "../img/dep/morazan.png",
+        "title": "Información sobre Morazán",
+        "description": [
+            "Morazán es un departamento de El Salvador ubicado en la zona oriental del país. Es conocido por su historia durante el conflicto armado, sus paisajes montañosos, y sitios históricos como el Museo de la Revolución en Perquín."
+        ],
+        "carouselImages": [
+            "../img/carusel/morazan4.jpg",
+            "../img/carusel/morazan2.jpg",
+            "../img/carusel/morazan3.jpg"
+        ],
+        "municipios": [
+            "Arambala",
+            "Cacaopera",
+            "Chilanga",
+            "Corinto",
+            "Delicias de Concepción",
+            "El Divisadero",
+            "El Rosario",
+            "Gualococti",
+            "Guatajiagua",
+            "Joateca",
+            "Jocoaitique",
+            "Jocoro",
+            "Lolotiquillo",
+            "Meanguera",
+            "Osicala",
+            "Perquín",
+            "San Carlos",
+            "San Fernando",
+            "San Francisco Gotera",
+            "San Isidro",
+            "San Simón",
+            "Sensembra",
+            "Sociedad",
+            "Torola",
+            "Yamabal",
+            "Yoloaiquín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/morazan1.jpg",
+                "nombre": "Museo de la Revolución en Perquín"
+            },
+            {
+                "img": "../img/carusel/morazan2.jpg",
+                "nombre": "Cascada El Chorrerón"
+            },
+            {
+                "img": "../img/carusel/morazan3.jpg",
+                "nombre": "Cerro El Pericón"
+            }
+        ]
+    },
+    "San Miguel": {
+        "mapImage": "../img/dep/sanmiguel.png",
+        "title": "Información sobre San Miguel",
+        "description": [
+            "San Miguel es un departamento de El Salvador ubicado en la zona oriental del país. Es conocido por su vibrante vida urbana, el famoso Volcán Chaparrastique, y la Feria de San Miguel, una de las festividades más grandes del país."
+        ],
+        "carouselImages": [
+            "../img/carusel/sanmiguel4.jpg",
+            "../img/carusel/sanmiguel1.jpg",
+            "../img/carusel/sanmiguel3.jpg"
+        ],
+        "municipios": [
+            "Carolina",
+            "Chapeltique",
+            "Chinameca",
+            "Chirilagua",
+            "Ciudad Barrios",
+            "Comacarán",
+            "El Tránsito",
+            "Lolotique",
+            "Moncagua",
+            "Nueva Guadalupe",
+            "Nuevo Edén de San Juan",
+            "Quelepa",
+            "San Antonio",
+            "San Gerardo",
+            "San Jorge",
+            "San Luis de la Reina",
+            "San Miguel",
+            "San Rafael Oriente",
+            "Sesori",
+            "Uluazapa"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sanmiguel1.jpg",
+                "nombre": "Volcán Chaparrastique"
+            },
+            {
+                "img": "../img/carusel/sanmiguel2.jpg",
+                "nombre": "Catedral Basílica de San Miguel"
+            },
+            {
+                "img": "../img/carusel/sanmiguel3.jpg",
+                "nombre": "Playa El Cuco"
+            }
+        ]
+    },
+    "San Vicente": {
+        "mapImage": "../img/dep/sanvicente.png",
+        "title": "Información sobre San Vicente",
+        "description": [
+            "San Vicente es un departamento de El Salvador ubicado en la zona central del país. Es conocido por su volcán Chichontepec, también llamado Volcán de San Vicente, así como por su agricultura y tradiciones culturales."
+        ],
+        "carouselImages": [
+            "../img/carusel/sanvicente1.jpg",
+            "../img/carusel/sanvicente2.jpg",
+            "../img/carusel/sanvicente3.jpg"
+        ],
+        "municipios": [
+            "Apastepeque",
+            "Guadalupe",
+            "San Cayetano Istepeque",
+            "San Esteban Catarina",
+            "San Ildefonso",
+            "San Lorenzo",
+            "San Sebastián",
+            "San Vicente",
+            "Santa Clara",
+            "Santo Domingo",
+            "Tecoluca",
+            "Tepetitán",
+            "Verapaz"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sanvicente1.jpg",
+                "nombre": "Volcán Chichontepec"
+            },
+            {
+                "img": "../img/carusel/sanvicente2.jpg",
+                "nombre": "Laguna de Apastepeque"
+            },
+            {
+                "img": "../img/carusel/sanvicente3.jpg",
+                "nombre": "Parque Recreativo Amapulapa"
+            }
+        ]
+    },
+    "San Salvador": {
+        "mapImage": "../img/dep/sansivar.png",
+        "title": "Información sobre San Salvador",
+        "description": [
+            "San Salvador, la capital de El Salvador, es una ciudad vibrante situada en el corazón del país. Fundada en 1525 por los colonizadores españoles, ha evolucionado a lo largo de los siglos para convertirse en el principal centro político, económico y cultural de El Salvador. Con una población diversa y dinámica, San Salvador juega un papel crucial en la vida nacional."
+        ],
+        "carouselImages": [
+            "../img/carusel/sansalvador1.jpg",
+            "../img/carusel/sansalvador2.jpg",
+            "../img/carusel/sansalvador3.jpg"
+        ],
+        "municipios": [
+            "Aguilares",
+            "Apopa",
+            "Ayutuxtepeque",
+            "Cuscatancingo",
+            "Delgado",
+            "El Paisnal",
+            "Guazapa",
+            "Ilopango",
+            "Mejicanos",
+            "Nejapa",
+            "Panchimalco",
+            "Rosario de Mora",
+            "San Marcos",
+            "San Martín",
+            "San Salvador",
+            "Santiago Texacuangos",
+            "Santo Tomás",
+            "Soyapango",
+            "Tonacatepeque"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sansalvador1.jpg",
+                "nombre": "San Salvador"
+            },
+            {
+                "img": "../img/carusel/sansalvador2.jpg",
+                "nombre": "Centro Histórico"
+            },
+            {
+                "img": "../img/carusel/sansalvador3.jpg",
+                "nombre": "Monumento al Salvador del Mundo"
+            }
+        ]
+    },
+    "Santa Ana": {
+        "mapImage": "../img/dep/santaana.png",
+        "title": "Información sobre Santa Ana",
+        "description": [
+            "Santa Ana es un departamento de El Salvador ubicado en la zona occidental del país. Es conocido por su rica historia, arquitectura colonial y el majestuoso volcán de Santa Ana."
+        ],
+        "carouselImages": [
+            "../img/carusel/santaana4.jpg",
+            "../img/carusel/santaana1.jpg",
+            "../img/carusel/santaana3.jpg"
+        ],
+        "municipios": [
+            "Candelaria de la Frontera",
+            "Chalchuapa",
+            "Coatepeque",
+            "El Congo",
+            "El Porvenir",
+            "Masahuat",
+            "Metapán",
+            "San Antonio Pajonal",
+            "San Sebastián Salitrillo",
+            "Santa Ana",
+            "Santa Rosa Guachipilín",
+            "Santiago de la Frontera",
+            "Texistepeque"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/santaana1.jpg",
+                "nombre": "Volcán de Santa Ana"
+            },
+            {
+                "img": "../img/carusel/santaana2.jpg",
+                "nombre": "Teatro de Santa Ana"
+            },
+            {
+                "img": "../img/carusel/santaana3.jpg",
+                "nombre": "Lago de Coatepeque"
+            }
+        ]
+    },
+    "Sonsonate": {
+        "mapImage": "../img/dep/sonsonate.png",
+        "title": "Información sobre Sonsonate",
+        "description": [
+            "Sonsonate es un departamento de El Salvador ubicado en la zona occidental del país. Es conocido por su riqueza cultural, bellas playas y el famoso recorrido turístico de la Ruta de las Flores."
+        ],
+        "carouselImages": [
+            "../img/carusel/sonsonate4.jpg",
+            "../img/carusel/sonsonate2.jpg",
+            "../img/carusel/sonsonate3.jpg"
+        ],
+        "municipios": [
+            "Acajutla",
+            "Armenia",
+            "Caluco",
+            "Cuisnahuat",
+            "Izalco",
+            "Juayúa",
+            "Nahuizalco",
+            "Nahulingo",
+            "Salcoatitán",
+            "San Antonio del Monte",
+            "San Julián",
+            "Santa Catarina Masahuat",
+            "Santa Isabel Ishuatán",
+            "Santo Domingo de Guzmán",
+            "Sonsonate",
+            "Sonzacate"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sonsonate1.jpg",
+                "nombre": "Ruta de las Flores"
+            },
+            {
+                "img": "../img/carusel/sonsonate2.jpg",
+                "nombre": "Puerto de Acajutla"
+            },
+            {
+                "img": "../img/carusel/sonsonate3.jpg",
+                "nombre": "Izalco"
+            }
+        ]
+    },
+    "Usulután": {
+        "mapImage": "../img/dep/usulu.png",
+        "title": "Información sobre Usulután",
+        "description": [
+            "Usulután es un departamento de El Salvador ubicado en la zona oriental del país. Es conocido por su agricultura, playas hermosas, y la Bahía de Jiquilisco, un importante estuario y área de conservación natural."
+        ],
+        "carouselImages": [
+            "../img/carusel/usulutan4.jpg",
+            "../img/carusel/usulutan2.jpg",
+            "../img/carusel/usulutan3.jpg"
+        ],
+        "municipios": [
+            "Alegría",
+            "Berlín",
+            "California",
+            "Concepción Batres",
+            "El Triunfo",
+            "Ereguayquín",
+            "Estanzuelas",
+            "Jiquilisco",
+            "Jucuapa",
+            "Jucuarán",
+            "Mercedes Umaña",
+            "Nueva Granada",
+            "Ozatlán",
+            "Puerto El Triunfo",
+            "San Agustín",
+            "San Buenaventura",
+            "San Dionisio",
+            "San Francisco Javier",
+            "Santa Elena",
+            "Santa María",
+            "Santiago de María",
+            "Tecapán",
+            "Usulután"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/usulutan1.jpg",
+                "nombre": "Bahía de Jiquilisco"
+            },
+            {
+                "img": "../img/carusel/usulutan2.jpg",
+                "nombre": "Laguna de Alegría"
+            },
+            {
+                "img": "../img/carusel/usulutan3.jpg",
+                "nombre": "El Espino"
+            }
+        ]
+    }
+}

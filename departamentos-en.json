@@ -1,0 +1,653 @@
+{
+    "La Libertad": {
+        "mapImage": "../img/dep/lalibertad.png",
+        "title": "Information about La Libertad",
+        "description": [
+            "La Libertad is a department in El Salvador located in the central part of the country. It is known for its beautiful beaches, tourist areas, and proximity to the capital, San Salvador."
+        ],
+        "carouselImages": [
+            "../img/carusel/lalibertdad1.jpg",
+            "../img/carusel/lalibertdad2.jpg",
+            "../img/carusel/lalibertdad3.jpg"
+        ],
+        "municipios": [
+            "Antiguo Cuscatlán",
+            "Chiltiupán",
+            "Ciudad Arce",
+            "Colón",
+            "Comasagua",
+            "Huizúcar",
+            "Jayaque",
+            "Jicalapa",
+            "La Libertad",
+            "Nuevo Cuscatlán",
+            "Quezaltepeque",
+            "San José Villanueva",
+            "San Juan Opico",
+            "Sacacoyo",
+            "San Matías",
+            "San Pablo Tacachico",
+            "Talnique",
+            "Tamanique",
+            "Teotepeque",
+            "Tepecoyo",
+            "Zaragoza"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/lalibertdad1.jpg",
+                "nombre": "La Libertad"
+            },
+            {
+                "img": "../img/carusel/lalibertdad2.jpg",
+                "nombre": "Santa Tecla"
+            },
+            {
+                "img": "../img/carusel/lalibertdad3.jpg",
+                "nombre": "San Andres Ruins"
+            }
+        ]
+    },
+    "Ahuachapán": {
+        "mapImage": "../img/dep/ahuachapan.png",
+        "title": "Information about Ahuachapán",
+        "description": [
+            "Ahuachapán is a department of El Salvador located in the western part of the country. It is famous for its natural beauty, hot springs, and rich coffee culture."
+        ],
+        "carouselImages": [
+            "../img/carusel/ahuachapan3.jpg",
+            "../img/carusel/ahuachapan1.jpg",
+            "../img/carusel/ahuachapan2.jpg"
+        ],
+        "municipios": [
+            "Ahuachapán",
+            "Apaneca",
+            "Atiquizaya",
+            "Concepción de Ataco",
+            "El Refugio",
+            "Guaymango",
+            "Jujutla",
+            "San Francisco Menéndez",
+            "San Lorenzo",
+            "San Pedro Puxtla",
+            "Tacuba",
+            "Turín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/ahuachapan1.jpg",
+                "nombre": "Apaneca"
+            },
+            {
+                "img": "../img/carusel/ahuachapan2.jpg",
+                "nombre": "Concepción de Ataco"
+            },
+            {
+                "img": "../img/carusel/ahuachapan4.jpg",
+                "nombre": "Santa Teresa Hot Springs"
+            }
+        ]
+    },
+    "Cabañas": {
+        "mapImage": "../img/dep/cabañas.png",
+        "title": "Information about Cabañas",
+        "description": [
+            "Cabañas is a department of El Salvador located in the north-central part of the country. It is known for its natural beauty, archaeological sites, and its significance in mineral and agricultural production."
+        ],
+        "carouselImages": [
+            "../img/carusel/cabanas1.jpg",
+            "../img/carusel/cabanas2.jpg",
+            "../img/carusel/cabanas3.jpg"
+        ],
+        "municipios": [
+            "Cinquera",
+            "Dolores",
+            "Guacotecti",
+            "Ilobasco",
+            "Jutiapa",
+            "San Isidro",
+            "Sensuntepeque",
+            "Tejutepeque",
+            "Victoria"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/cabanas1.jpg",
+                "nombre": "Ilobasco"
+            },
+            {
+                "img": "../img/carusel/cabanas2.jpg",
+                "nombre": "Guazapa Hill"
+            },
+            {
+                "img": "../img/carusel/cabanas3.jpg",
+                "nombre": "Cinquera National Park"
+            }
+        ]
+    },
+    "Chalatenango": {
+        "mapImage": "../img/dep/Chalate.png",
+        "title": "Information about Chalatenango",
+        "description": [
+            "Chalatenango is a department of El Salvador located in the northern part of the country. It is known for its stunning mountainous landscapes, rivers, and agricultural culture, as well as being a popular ecotourism destination."
+        ],
+        "carouselImages": [
+            "../img/carusel/chalatenango3.jpg",
+            "../img/carusel/chalatenango2.jpeg",
+            "../img/carusel/chalatenango4.jpg"
+        ],
+        "municipios": [
+            "Agua Caliente",
+            "Arcatao",
+            "Azacualpa",
+            "Citalá",
+            "Comalapa",
+            "Concepción Quezaltepeque",
+            "Dulce Nombre de María",
+            "El Carrizal",
+            "El Paraíso",
+            "La Laguna",
+            "La Palma",
+            "La Reina",
+            "Las Vueltas",
+            "Nueva Concepción",
+            "Nueva Trinidad",
+            "Ojos de Agua",
+            "Potonico",
+            "San Antonio de la Cruz",
+            "San Antonio Los Ranchos",
+            "San Fernando",
+            "San Francisco Lempa",
+            "San Francisco Morazán",
+            "San Ignacio",
+            "San Isidro Labrador",
+            "San José Cancasque",
+            "San José Las Flores",
+            "San Luis del Carmen",
+            "San Miguel de Mercedes",
+            "San Rafael",
+            "Santa Rita",
+            "Tejutla"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/chalatenango1.jpg",
+                "nombre": "La Palma"
+            },
+            {
+                "img": "../img/carusel/chalatenango2.jpeg",
+                "nombre": "El Pital Hill"
+            },
+            {
+                "img": "../img/carusel/chalatenango4.jpg",
+                "nombre": "Cerrón Grande Reservoir"
+            }
+        ]
+    },
+    "Cuscatlán": {
+        "mapImage": "../img/dep/cusca.png",
+        "title": "Information about Cuscatlán",
+        "description": [
+            "Cuscatlán is a department of El Salvador located in the central part of the country. It is known for its rich pre-Columbian history, as well as its agricultural production, especially coffee and sugar cane."
+        ],
+        "carouselImages": [
+            "../img/carusel/cuscatlan4.jpg",
+            "../img/carusel/cuscatlan2.jpg",
+            "../img/carusel/cuscatlan1.jpg"
+        ],
+        "municipios": [
+            "Candelaria",
+            "Cojutepeque",
+            "El Carmen",
+            "El Rosario",
+            "Monte San Juan",
+            "Oratorio de Concepción",
+            "San Bartolomé Perulapía",
+            "San Cristóbal",
+            "San José Guayabal",
+            "San Pedro Perulapán",
+            "San Rafael Cedros",
+            "San Ramón",
+            "Santa Cruz Analquito",
+            "Santa Cruz Michapa",
+            "Suchitoto",
+            "Tenancingo"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/cuscatlan1.jpg",
+                "nombre": "Suchitoto"
+            },
+            {
+                "img": "../img/carusel/cuscatlan2.jpg",
+                "nombre": "Suchitlán Lake"
+            },
+            {
+                "img": "../img/carusel/cuscatlan3.jpg",
+                "nombre": "Cojutepeque"
+            }
+        ]
+    },
+    "La Paz": {
+        "mapImage": "../img/dep/lapaz.png",
+        "title": "Information about La Paz",
+        "description": [
+            "La Paz is a department of El Salvador located in the central part of the country, along the Pacific Ocean coast. It is known for its beaches, agriculture, and the production of salt in the Jiquilisco Bay salt flats."
+        ],
+        "carouselImages": [
+            "../img/carusel/lapaz4.jpg",
+            "../img/carusel/lapaz2.jpg",
+            "../img/carusel/lapaz1.jpg"
+        ],
+        "municipios": [
+            "Cuyultitán",
+            "El Rosario",
+            "Jerusalén",
+            "Mercedes La Ceiba",
+            "Olocuilta",
+            "Paraíso de Osorio",
+            "San Antonio Masahuat",
+            "San Emigdio",
+            "San Francisco Chinameca",
+            "San Pedro Masahuat",
+            "San Juan Nonualco",
+            "San Juan Talpa",
+            "San Juan Tepezontes",
+            "San Luis La Herradura",
+            "San Luis Talpa",
+            "San Miguel Tepezontes",
+            "San Pedro Nonualco",
+            "San Rafael Obrajuelo",
+            "Santa María Ostuma",
+            "Santiago Nonualco",
+            "Tapalhuaca",
+            "Zacatecoluca"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/lapaz1.jpg",
+                "nombre": "Costa del Sol"
+            },
+            {
+                "img": "../img/carusel/lapaz3.jpg",
+                "nombre": "San Antonio Masahuat"
+            },
+            {
+                "img": "../img/carusel/lapaz2.jpg",
+                "nombre": "Los Blancos Beach"
+            }
+        ]
+    },
+    "La Unión": {
+        "mapImage": "../img/dep/union.png",
+        "title": "Information about La Unión",
+        "description": [
+            "La Unión is a department of El Salvador located in the eastern part of the country. It is known for its port on the Gulf of Fonseca, its paradisiacal beaches, and for being an important maritime trade point."
+        ],
+        "carouselImages": [
+            "../img/carusel/launion4.jpg",
+            "../img/carusel/launion1.jpg",
+            "../img/carusel/launion2.jpg"
+        ],
+        "municipios": [
+            "Anamorós",
+            "Bolívar",
+            "Concepción de Oriente",
+            "Conchagua",
+            "El Carmen",
+            "El Sauce",
+            "Intipucá",
+            "La Unión",
+            "Lislique",
+            "Meanguera del Golfo",
+            "Nueva Esparta",
+            "Pasaquina",
+            "Polorós",
+            "San Alejo",
+            "San José",
+            "Santa Rosa de Lima",
+            "Yayantique",
+            "Yucuaiquín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/launion1.jpg",
+                "nombre": "Gulf of Fonseca"
+            },
+            {
+                "img": "../img/carusel/launion2.jpg",
+                "nombre": "Las Tunas Beach"
+            },
+            {
+                "img": "../img/carusel/launion3.jpg",
+                "nombre": "Meanguera Island"
+            }
+        ]
+    },
+    "Morazán": {
+        "mapImage": "../img/dep/morazan.png",
+        "title": "Information about Morazán",
+        "description": [
+            "Morazán is a department of El Salvador located in the eastern part of the country. It is known for its history during the armed conflict, its mountainous landscapes, and historical sites such as the Museum of the Revolution in Perquín."
+        ],
+        "carouselImages": [
+            "../img/carusel/morazan4.jpg",
+            "../img/carusel/morazan2.jpg",
+            "../img/carusel/morazan3.jpg"
+        ],
+        "municipios": [
+            "Arambala",
+            "Cacaopera",
+            "Chilanga",
+            "Corinto",
+            "Delicias de Concepción",
+            "El Divisadero",
+            "El Rosario",
+            "Gualococti",
+            "Guatajiagua",
+            "Joateca",
+            "Jocoaitique",
+            "Jocoro",
+            "Lolotiquillo",
+            "Meanguera",
+            "Osicala",
+            "Perquín",
+            "San Carlos",
+            "San Fernando",
+            "San Francisco Gotera",
+            "San Isidro",
+            "San Simón",
+            "Sensembra",
+            "Sociedad",
+            "Torola",
+            "Yamabal",
+            "Yoloaiquín"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/morazan1.jpg",
+                "nombre": "Museum of the Revolution in Perquín"
+            },
+            {
+                "img": "../img/carusel/morazan2.jpg",
+                "nombre": "El Chorrerón Waterfall"
+            },
+            {
+                "img": "../img/carusel/morazan3.jpg",
+                "nombre": "El Pericón Hill"
+            }
+        ]
+    },
+    "San Miguel": {
+        "mapImage": "../img/dep/sanmiguel.png",
+        "title": "Information about San Miguel",
+        "description": [
+            "San Miguel is a department of El Salvador located in the eastern part of the country. It is known for its vibrant urban life, the famous Chaparrastique Volcano, and the San Miguel Fair, one of the largest festivities in the country."
+        ],
+        "carouselImages": [
+            "../img/carusel/sanmiguel4.jpg",
+            "../img/carusel/sanmiguel1.jpg",
+            "../img/carusel/sanmiguel3.jpg"
+        ],
+        "municipios": [
+            "Carolina",
+            "Chapeltique",
+            "Chinameca",
+            "Chirilagua",
+            "Ciudad Barrios",
+            "Comacarán",
+            "El Tránsito",
+            "Lolotique",
+            "Moncagua",
+            "Nueva Guadalupe",
+            "Nuevo Edén de San Juan",
+            "Quelepa",
+            "San Antonio",
+            "San Gerardo",
+            "San Jorge",
+            "San Luis de la Reina",
+            "San Miguel",
+            "San Rafael Oriente",
+            "Sesori",
+            "Uluazapa"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sanmiguel1.jpg",
+                "nombre": "Chaparrastique Volcano"
+            },
+            {
+                "img": "../img/carusel/sanmiguel2.jpg",
+                "nombre": "San Miguel Basilica Cathedral"
+            },
+            {
+                "img": "../img/carusel/sanmiguel3.jpg",
+                "nombre": "El Cuco Beach"
+            }
+        ]
+    },
+    "San Vicente": {
+        "mapImage": "../img/dep/sanvicente.png",
+        "title": "Information about San Vicente",
+        "description": [
+            "San Vicente is a department of El Salvador located in the central part of the country. It is known for its Chichontepec Volcano, also called the San Vicente Volcano, as well as for its agriculture and cultural traditions."
+        ],
+        "carouselImages": [
+            "../img/carusel/sanvicente1.jpg",
+            "../img/carusel/sanvicente2.jpg",
+            "../img/carusel/sanvicente3.jpg"
+        ],
+        "municipios": [
+            "Apastepeque",
+            "Guadalupe",
+            "San Cayetano Istepeque",
+            "San Esteban Catarina",
+            "San Ildefonso",
+            "San Lorenzo",
+            "San Sebastián",
+            "San Vicente",
+            "Santa Clara",
+            "Santo Domingo",
+            "Tecoluca",
+            "Tepetitán",
+            "Verapaz"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sanvicente1.jpg",
+                "nombre": "Chichontepec Volcano"
+            },
+            {
+                "img": "../img/carusel/sanvicente2.jpg",
+                "nombre": "Apastepeque Lagoon"
+            },
+            {
+                "img": "../img/carusel/sanvicente3.jpg",
+                "nombre": "Amapulapa Water Park"
+            }
+        ]
+    },
+    "San Salvador": {
+        "mapImage": "../img/dep/sansivar.png",
+        "title": "Information about San Salvador",
+        "description": [
+            "San Salvador, the capital of El Salvador, is a vibrant city located in the heart of the country. Founded in 1525 by Spanish colonizers, it has evolved over the centuries to become the main political, economic, and cultural center of El Salvador. With a diverse and dynamic population, San Salvador plays a crucial role in the national life."
+        ],
+        "carouselImages": [
+            "../img/carusel/sansalvador1.jpg",
+            "../img/carusel/sansalvador2.jpg",
+            "../img/carusel/sansalvador3.jpg"
+        ],
+        "municipios": [
+            "Aguilares",
+            "Apopa",
+            "Ayutuxtepeque",
+            "Cuscatancingo",
+            "Delgado",
+            "El Paisnal",
+            "Guazapa",
+            "Ilopango",
+            "Mejicanos",
+            "Nejapa",
+            "Panchimalco",
+            "Rosario de Mora",
+            "San Marcos",
+            "San Martín",
+            "San Salvador",
+            "Santiago Texacuangos",
+            "Santo Tomás",
+            "Soyapango",
+            "Tonacatepeque"
+        ],
+        "lugaresTuristicos": [
+            {
+                "img": "../img/carusel/sansalvador1.jpg",
+                "nombre": "San Salvador"
+            },
+            {
+                "img": "../img/carusel/sansalvador2.jpg",
+                "nombre": "Historic Center"
+            },
+            {
+                "img": "../img/carusel/sansalvador3.jpg",
+                "nombre": "Monument to the Savior of the World"
+            }
+        ]
+    },
+    "Santa Ana": {
+        "mapImage": "../img/dep/santaana.png",
+        "title": "Information about Santa Ana",
+        "description": [
+            "Santa Ana is a department of El Salvador located in the western part of the country. It is known for its rich history, colonial architecture, and the majestic Santa Ana Volcano."
+        ],
+    "carouselImages": [
+        "../img/carusel/santaana4.jpg",
+        "../img/carusel/santaana1.jpg",
+        "../img/carusel/santaana3.jpg"
+    ],
+    "municipios": [
+        "Candelaria de la Frontera",
+        "Chalchuapa",
+        "Coatepeque",
+        "El Congo",
+        "El Porvenir",
+        "Masahuat",
+        "Metapán",
+        "San Antonio Pajonal",
+        "San Sebastián Salitrillo",
+        "Santa Ana",
+        "Santa Rosa Guachipilín",
+        "Santiago de la Frontera",
+        "Texistepeque"
+    ],
+    "lugaresTuristicos": [
+        {
+            "img": "../img/carusel/santaana1.jpg",
+            "nombre": "Santa Ana Volcano"
+        },
+        {
+            "img": "../img/carusel/santaana2.jpg",
+            "nombre": "Santa Ana Theater"
+        },
+        {
+            "img": "../img/carusel/santaana3.jpg",
+            "nombre": "Coatepeque Lake"
+        }
+    ]
+},
+"Sonsonate": {
+    "mapImage": "../img/dep/sonsonate.png",
+    "title": "Information about Sonsonate",
+    "description": [
+        "Sonsonate is a department of El Salvador located in the western part of the country. It is known for its cultural richness, beautiful beaches, and the famous tourist route, the Ruta de las Flores."
+    ],
+    "carouselImages": [
+        "../img/carusel/sonsonate4.jpg",
+        "../img/carusel/sonsonate2.jpg",
+        "../img/carusel/sonsonate3.jpg"
+    ],
+    "municipios": [
+        "Acajutla",
+        "Armenia",
+        "Caluco",
+        "Cuisnahuat",
+        "Izalco",
+        "Juayúa",
+        "Nahuizalco",
+        "Nahulingo",
+        "Salcoatitán",
+        "San Antonio del Monte",
+        "San Julián",
+        "Santa Catarina Masahuat",
+        "Santa Isabel Ishuatán",
+        "Santo Domingo de Guzmán",
+        "Sonsonate",
+        "Sonzacate"
+    ],
+    "lugaresTuristicos": [
+        {
+            "img": "../img/carusel/sonsonate1.jpg",
+            "nombre": "Ruta de las Flores"
+        },
+        {
+            "img": "../img/carusel/sonsonate2.jpg",
+            "nombre": "Acajutla Port"
+        },
+        {
+            "img": "../img/carusel/sonsonate3.jpg",
+            "nombre": "Izalco"
+        }
+    ]
+},
+"Usulután": {
+    "mapImage": "../img/dep/usulu.png",
+    "title": "Information about Usulután",
+    "description": [
+        "Usulután is a department of El Salvador located in the eastern part of the country. It is known for its agriculture, beautiful beaches, and the Jiquilisco Bay, an important estuary and natural conservation area."
+    ],
+    "carouselImages": [
+        "../img/carusel/usulutan4.jpg",
+        "../img/carusel/usulutan2.jpg",
+        "../img/carusel/usulutan3.jpg"
+    ],
+    "municipios": [
+        "Alegría",
+        "Berlín",
+        "California",
+        "Concepción Batres",
+        "El Triunfo",
+        "Ereguayquín",
+        "Estanzuelas",
+        "Jiquilisco",
+        "Jucuapa",
+        "Jucuarán",
+        "Mercedes Umaña",
+        "Nueva Granada",
+        "Ozatlán",
+        "Puerto El Triunfo",
+        "San Agustín",
+        "San Buenaventura",
+        "San Dionisio",
+        "San Francisco Javier",
+        "Santa Elena",
+        "Santa María",
+        "Santiago de María",
+        "Tecapán",
+        "Usulután"
+    ],
+    "lugaresTuristicos": [
+        {
+            "img": "../img/carusel/usulutan1.jpg",
+            "nombre": "Jiquilisco Bay"
+        },
+        {
+            "img": "../img/carusel/usulutan2.jpg",
+            "nombre": "Alegría Lagoon"
+        },
+        {
+            "img": "../img/carusel/usulutan3.jpg",
+            "nombre": "El Espino Beach"
+        }
+    ]
+}
+}
