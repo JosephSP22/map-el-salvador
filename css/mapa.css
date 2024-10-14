@@ -154,3 +154,18 @@ footer img{
     }
 
 }
+
+@media (max-width: 500px) {
+    .image-container img {
+        width: 150px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+    h2{
+        font-size: 20px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+}
